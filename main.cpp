@@ -27,12 +27,25 @@ void ft_error(int id)
  */
 
 
-void print_answer(int *arr, size_t len)
+void print_answer(int *arr, int len)
 {
 	ofstream result;
 	result.open("result.txt");
-	while (len--)
-		result << arr[len];
+	while (len)
+	{
+		if (arr[len - 1] == 0)
+		{
+			len--;
+			continue;
+		}
+		else
+			break ;
+	}
+	while (len > 0)
+	{
+		result << arr[len - 1];
+		len--;
+	}
 	result.close();
 }
 
@@ -79,7 +92,6 @@ void mult_infinit(int *arr, char *s1, char *s2, size_t len)
 				{
 					arr[k + 1] = arr[k + 1] + (arr[k] + num) / 10;
 					arr[k] = (arr[k] + num) % 10;
-
 				}
 			}
 			else
