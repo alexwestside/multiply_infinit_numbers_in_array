@@ -129,7 +129,8 @@ int main(int ac, char **av)
 		read_file(&s1, av[1]);
 		read_file(&s2, av[2]);
 		len = strlen(s1) + strlen(s2);
-		arr = (int *) malloc(sizeof(int) * len);
+		if (!(arr = (int *) malloc(sizeof(int) * len)))
+			ft_error(3);
 		bzero(arr, len * sizeof(int));
 		mult_infinit(arr, s1, s2, len);
 	}

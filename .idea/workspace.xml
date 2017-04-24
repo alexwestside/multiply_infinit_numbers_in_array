@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="90" column="14" lean-forward="true" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+            <state relative-caret-position="860">
+              <caret line="138" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="138" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="result.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/result.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <caret line="0" column="1999" lean-forward="false" selection-start-line="0" selection-start-column="1999" selection-end-line="0" selection-end-column="1999" />
               <folding />
             </state>
           </provider>
@@ -348,7 +348,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;/nfs/2016/o/orizhiy/ClionProjects/GL_task_multiply_numbers(int_array)/test5&quot; &quot;/nfs/2016/o/orizhiy/ClionProjects/GL_task_multiply_numbers(int_array)/test6&quot;" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GL_task_multiply_numbers_int_array_" TARGET_NAME="GL_task_multiply_numbers_int_array_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GL_task_multiply_numbers_int_array_" RUN_TARGET_NAME="GL_task_multiply_numbers_int_array_">
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;/nfs/2016/o/orizhiy/ClionProjects/GL_task_multiply_numbers(int_array)/test1.txt&quot; &quot;/nfs/2016/o/orizhiy/ClionProjects/GL_task_multiply_numbers(int_array)/test2.txt&quot;" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GL_task_multiply_numbers_int_array_" TARGET_NAME="GL_task_multiply_numbers_int_array_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GL_task_multiply_numbers_int_array_" RUN_TARGET_NAME="GL_task_multiply_numbers_int_array_">
       <envs />
       <method />
     </configuration>
@@ -369,7 +369,7 @@
       <updated>1492873100511</updated>
       <workItem from="1492873103169" duration="4426000" />
       <workItem from="1492937781329" duration="10032000" />
-      <workItem from="1493018755177" duration="4898000" />
+      <workItem from="1493018755177" duration="6713000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1492874844063</created>
@@ -385,11 +385,25 @@
       <option name="project" value="LOCAL" />
       <updated>1492969466530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="end_2">
+      <created>1493027648411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493027648411</updated>
+    </task>
+    <task id="LOCAL-00004" summary="end_2">
+      <created>1493029194057</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493029194057</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19356000" />
+    <option name="totallyTimeSpent" value="21171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -401,7 +415,7 @@
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24970461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3051095" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -424,28 +438,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="end_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="end_1" />
+    <MESSAGE value="end_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="end_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>29</line>
-          <option name="timeStamp" value="26" />
+          <line>43</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>92</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>61</line>
-          <option name="timeStamp" value="29" />
+          <line>33</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
@@ -454,10 +464,10 @@
         <watch expression="arr[2]" language="ObjectiveC" />
         <watch expression="arr[3]" language="ObjectiveC" />
         <watch expression="arr[4]" language="ObjectiveC" />
-        <watch expression="s1[sl1]" language="ObjectiveC" />
         <watch expression="arr[5]" language="ObjectiveC" />
         <watch expression="arr[6]" language="ObjectiveC" />
         <watch expression="arr[7]" language="ObjectiveC" />
+        <watch expression="s1[sl1]" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
@@ -502,21 +512,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="90" column="14" lean-forward="true" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+        <state relative-caret-position="860">
+          <caret line="138" column="1" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="138" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1999" lean-forward="false" selection-start-line="0" selection-start-column="1999" selection-end-line="0" selection-end-column="1999" />
+          <folding />
         </state>
       </provider>
     </entry>
